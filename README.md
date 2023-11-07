@@ -2,7 +2,7 @@
 
 This is open-source codebase for GW-PCZero, from "Generalized Weighted Path Consistency for Mastering Atari Games" at NeurIPS2023. You can find our poster 
 
-[here]:https://github.com/CMACH508/GW_PCZero/picture/poster.png to get a quick overview of our work.
+[here](https://github.com/CMACH508/GW_PCZero/blob/main/picture/poster.png) to get a quick overview of our work.
 
 ## Description
 Path consistency (PC) is defined as "*f values on one optimal path should
